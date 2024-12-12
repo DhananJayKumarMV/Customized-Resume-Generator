@@ -1,0 +1,6 @@
+Role,Skills,Experience,Projects
+Data Scientist,"Python, SQL, TensorFlow, PyTorch, Pandas, NumPy","Analyzed datasets to build predictive models, Designed ETL pipelines for data processing","Diabetic Retinopathy Prediction, Customer Churn Analysis"
+Data Analyst,"Power BI, Tableau, SQL, Excel, Python","Created dashboards to visualize business KPIs, Performed exploratory data analysis","Retail Sales Dashboard, Financial Analysis Dashboard"
+Software Engineer,"Java, Spring Boot, REST APIs, Microservices, Git","Developed scalable web applications, Designed microservice architectures","E-commerce Platform Development, API Gateway Optimization"
+ML Engineer,"PyTorch, TensorFlow, Docker, Kubernetes, AWS","Built end-to-end machine learning pipelines, Deployed ML models in production","Image Recognition System, Real-time Fraud Detection"
+Senior Data Engineer,"SQL, Python, Spark, Hadoop, Kafka, AWS Redshift, Azure Data Factory","Designed and managed scalable data pipelines, Optimized big data workflows for performance","Cloud Data Warehouse Migration, Streaming Data Analytics Pipeline"
