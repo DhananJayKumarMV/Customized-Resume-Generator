@@ -1,0 +1,13 @@
+langchain-community
+langchain-groq
+langchain-core
+openai
+fitz
+pymupdf
+chromadb
+PyPDF2
+fpdf
+unstructured
+streamlit
+faiss-cpu
+sentence-transformers
